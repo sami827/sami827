@@ -10,5 +10,8 @@
 
 <br />
 
-[![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami827&show_icons=true&theme=buefy&hide=prs)](https://github.com/sami827/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami827&layout=compact)](https://github.com/sami827/github-readme-stats)
+
+| <a href="https://github.com/sami827/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sami's github stats" /></a> | <a href="https://github.com/sami827/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami827&layout=compact" /></a> |
+| ------------- | ------------- |
+
 
