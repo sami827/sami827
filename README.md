@@ -10,8 +10,4 @@
 
 <br />
 
-<<<<<<< HEAD
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami827&show_icons=true&theme=onedark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-=======
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami827&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> 7d7be655e41a0e50d8676f875e0aef0174fdbdcf
