@@ -10,4 +10,4 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami827&hide=commits,issues&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) <a href="https://github.com/sami827/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami827&layout=compact&theme=buefy&hide_border=true" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami827&hide=commits,issues&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
