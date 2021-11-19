@@ -10,5 +10,5 @@
 
 <br />
 
-[![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami827&show_icons=true&theme=buefy&hide=prs)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami827&layout=compact)]
+[![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami827&show_icons=true&theme=buefy&hide=prs)](https://github.com/sami827/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami827&layout=compact)](https://github.com/sami827/github-readme-stats)
 
