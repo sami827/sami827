@@ -1,8 +1,8 @@
+<h1 align="center"> 👋 </h1>
+
 <div align="center">
   <img src="https://github.com/sami827/git-solutions/blob/main/Hey%2C%20I'm%20Sami.gif" alt="header"/>
 </div>
-
-### Greetings, I'm Sami 👋 
 
 ## I'm a Learner, Gamer, and Automation Tester!!
 
