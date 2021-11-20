@@ -43,5 +43,5 @@
 <br /><br />
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sami827)](https://github.com/sami827/sami827/)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sami827)](https://github.com/sami827/sami827/) -->
 
