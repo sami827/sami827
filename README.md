@@ -37,7 +37,7 @@
 
 
 
-| <a href="https://github.com/sami827/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sami827&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs" alt="Sami's github stats" /></a> | <a href="https://github.com/sami827/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami827&layout=compact&langs_count=2" /></a> |
+| <a href="https://github.com/sami827"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sami827&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs" alt="Sami's github stats" /></a> | <a href="https://github.com/sami827"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami827&layout=compact&langs_count=2" /></a> |
 | ------------- | ------------- |
 
 <br /><br />
