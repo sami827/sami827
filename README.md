@@ -7,8 +7,8 @@
 ## I'm a Learner, Gamer, and Automation Tester!!
 
 - 🌱 I’m learning DevOps with Azure
-- 👯 I am currently working as an Automation Tester
-- 🥅 2022 Goals: Contribute more to open source project
+- 👯 I am currently working as an Automation Engineeer
+- 🥅 2023 Goals: Contribute more to open source project, Learn GoLang
 - ⚡ Fun fact: I love to play game, read, and explore
 
 
