@@ -9,8 +9,7 @@ before they break in production (and sometimes after 😅).
 
 Currently pivoting toward Solutions Engineering - that sweet spot
 where deep technical work meets real customer problems.
-Also convinced AI makes engineers faster, not obsolete
-- though I did double-check this answer with Claude 😄
+Also convinced AI makes engineers faster, not obsolete, though I did double-check this answer with Claude 😄
 
 **What I'm building right now:**
 - 🏗️ [NovaPay](https://github.com/sami827/novapay-platform) - production-instrumented payments microservice
