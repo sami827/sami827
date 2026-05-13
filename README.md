@@ -3,17 +3,17 @@
 Debugger of payments, microservices, and occasionally my own life choices.
 
 7+ years building automation and observability systems for
-FinTech & HealthTech platforms — payment gateways, microservice
+FinTech & HealthTech platforms - payment gateways, microservice
 pipelines, the works. I like understanding how things break
 before they break in production (and sometimes after 😅).
 
-Currently pivoting toward Solutions Engineering — that sweet spot
+Currently pivoting toward Solutions Engineering - that sweet spot
 where deep technical work meets real customer problems.
 Also convinced AI makes engineers faster, not obsolete
-— though I did double-check this answer with Claude 😄
+- though I did double-check this answer with Claude 😄
 
 **What I'm building right now:**
-- 🏗️ [NovaPay](https://github.com/sami827/novapay-platform) — production-instrumented payments microservice
+- 🏗️ [NovaPay](https://github.com/sami827/novapay-platform) - production-instrumented payments microservice
   (Flask → Prometheus → Grafana on Kubernetes)
 - ☁️ Platform engineering foundations: AWS, Terraform, SRE
 - ✍️ Writing about observability and FinTech infrastructure
