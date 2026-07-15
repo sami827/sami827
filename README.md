@@ -1,33 +1,31 @@
 ## Hey, I'm Sami 👋
 
-Debugger of payments, microservices, and occasionally my own life choices.
+Platform Engineer building infrastructure that verifies itself.
 
-7+ years building automation and observability systems for
-FinTech & HealthTech platforms - payment gateways, microservice
-pipelines, the works. I like understanding how things break
-before they break in production (and sometimes after 😅).
+7+ years across FinTech and HealthTech - payment gateways, microservice platforms, observability pipelines. I come from a testing and automation background, which means I build platforms with quality gates, invariant tests, and SLO-based alerting baked in from Day 1.
 
-Currently pivoting toward Solutions Engineering - that sweet spot
-where deep technical work meets real customer problems.
-Also convinced AI makes engineers faster, not obsolete, though I did double-check this answer with Claude 😄
+Currently focused on infrastructure ownership: IaC, CI/CD, GitOps, and making systems that are provably reliable, not just hopefully reliable.
 
 **What I'm building right now:**
-- 🏗️ [NovaPay](https://github.com/sami827/novapay-platform) - production-instrumented payments microservice
-  (Flask → Prometheus → Grafana on Kubernetes)
-- ☁️ Platform engineering foundations: AWS, Terraform, SRE
-- ✍️ Writing about observability and FinTech infrastructure
+
+- 🏗️ [NovaPay](https://github.com/sami827/novapay-platform) - a full platform engineering portfolio: modular Terraform (VPC, EKS, RDS, SG chaining), CI/CD with OIDC federation, Helm + ArgoCD GitOps delivery, Prometheus/Grafana observability, stress-tested to 200 VUs, chaos-tested with zero dropped requests
+- 🧱 [novapay-infra](https://github.com/sami827/novapay-infra) - Terraform modules with plan-time invariant tests and IaC security scanning in CI
 
 **Stack I work with:**
-Python · TypeScript · Java · Bash
-AWS · Docker · Kubernetes · Terraform
-Prometheus · Grafana · Datadog · Kibana
-Jenkins · GitHub Actions
+
+Python · Bash · Terraform · Docker · Kubernetes · Helm · ArgoCD
+AWS (VPC, EKS, RDS, IAM, S3) · GitHub Actions · OIDC federation
+Prometheus · Grafana · AlertManager · Datadog
+k6 · pytest · Jenkins
 
 **Certifications:**
+
 ☁️ AWS Certified Cloud Practitioner
 
 **Currently reading:**
-Google SRE Book · Observability Engineering (Charity Majors)
 
-**When I'm not breaking prod:**
-🎮 Gaming · 📚 Reading · 🤖 Poking AI tools to see what falls out
+Google SRE Book · Observability Engineering (Charity Majors) · Terraform: Up & Running (Brikman)
+
+**When I'm not building platforms:**
+
+🎮 Gaming · 📚 Reading · 🤖 Exploring what AI tools can actually do for engineering workflows
