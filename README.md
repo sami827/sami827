@@ -14,7 +14,7 @@ Currently focused on infrastructure ownership: IaC, CI/CD, GitOps, and making sy
 **Stack I work with:**
 
 Python · Bash · Terraform · Docker · Kubernetes · Helm · ArgoCD
-AWS (VPC, EKS, RDS, IAM, S3) · GitHub Actions · OIDC federation
+AWS (VPC, EKS, RDS, IAM, S3) · GitHub Actions · OIDC federation ·
 Prometheus · Grafana · AlertManager · Datadog
 k6 · pytest · Jenkins
 
